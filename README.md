@@ -12,3 +12,6 @@
 
 ## How to Run
 - Pull everything from this GitHub, after downloading, run `CottonCandy.exe` to start the game.
+
+## Gameplay
+- Use arrow keys to move, and the spacebar to jump.
