@@ -1,6 +1,6 @@
 # CottonCandy
 - Unity Project: https://github.com/yoyohohoh/comp305assignment2
-- WebGL Version Available (PC): https://yobisaboy.itch.io/hot-dog-planet?secret=XSOItbxLqi3Kk0yOkhVQC4WipyU
+- WebGL Version Available (PC): https://yobisaboy.itch.io/cotton-candy?secret=BsJiCyawTo3c2wHEjYuwOVkAgvs
 
 ## Contact
 - Tel: +1 (647) 637-0831
